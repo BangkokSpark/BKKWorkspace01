@@ -14,6 +14,6 @@ if(getenv('REQUEST_METHOD') == 'POST') {
 }
 
 
-Print "Hello, World!";
-    echo "Welcome, I am connecting Android to PHP, MySQL";
+//Print "Hello, World!";
+    //echo "Welcome, I am connecting Android to PHP, MySQL";
 ?>
