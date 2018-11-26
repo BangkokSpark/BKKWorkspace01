@@ -1,3 +1,3 @@
 <?php
-echo 'Hello ' . htmlspecialchars($_POST["name"]) . '!';
+    echo "Welcome, I am connecting Android to PHP, MySQL";
 ?>
