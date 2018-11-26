@@ -13,7 +13,6 @@ if(getenv('REQUEST_METHOD') == 'POST') {
 	exit();
 }
 
-
 //Print "Hello, World!";
     //echo "Welcome, I am connecting Android to PHP, MySQL";
 ?>
